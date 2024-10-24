@@ -24,8 +24,8 @@ const int RXPin = 16, TXPin = 17;
 #define PPS_PIN 23 // Replace with the GPIO pin connected to the PPS signal
 
 // Wi-Fi Setup
-const char* ssid = "TP-Link_E854";
-const char* password = "13772857";
+const char* ssid = "xx";
+const char* password = "xx";
 
 // NTP Setup
 WiFiUDP ntpUDP;
